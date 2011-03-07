@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAACn//+W4\u003d",
+        "filename": "BoardConfig.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 69,
+      "author": {
+        "id": 32
+      },
+      "writtenOn": "2011-03-07T04:52:12Z",
+      "side": 1,
+      "message": "Get rid of the BCM hack?",
+      "revId": "d76b4d36f636563f8b0e434537c4158b5af4f956",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
