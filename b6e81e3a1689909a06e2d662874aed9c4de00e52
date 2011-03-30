@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAADX//+pk\u003d",
+        "filename": "extract-files.sh",
+        "patchSetId": 1
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 12
+      },
+      "writtenOn": "2011-03-30T03:04:52Z",
+      "side": 1,
+      "message": "Yes, you are!",
+      "revId": "b6e81e3a1689909a06e2d662874aed9c4de00e52",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAADX//+pg\u003d",
+        "filename": "extract-files.sh",
+        "patchSetId": 1
+      },
+      "lineNbr": 90,
+      "author": {
+        "id": 12
+      },
+      "writtenOn": "2011-03-30T03:04:52Z",
+      "side": 1,
+      "message": ";)",
+      "revId": "b6e81e3a1689909a06e2d662874aed9c4de00e52",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
